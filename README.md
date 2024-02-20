@@ -3,7 +3,7 @@ This is a simple project made by me to try and create some basic software to han
 
 After this, the drone is assumed to be moving and as it reaches within 1 km of the current destination node, it sends an SMS via IFTTT and Webhooks to the intended recipient. Then when the distance between the destination node and the current location of the drone (taken from the GPS module) becomes zero, the product is assumed to have been delivered and the destination node becomes the next one in the list.
 
-DUE TO THE PANDEMIC AND LACK OF PARTS TO MAKE THE DRONE, MANY ASPECTS OF THIS SOFTWARE HAS BEEN SIMULATED AND NOT EXACTLY AS IT HAS BEEN DESCRIBED.
+DUE TO THE COVID-19 PANDEMIC AND LACK OF PARTS TO MAKE THE DRONE, MANY ASPECTS OF THIS SOFTWARE HAS BEEN SIMULATED AND NOT EXACTLY AS IT HAS BEEN DESCRIBED.
 
 Navigating the directories - 
 
